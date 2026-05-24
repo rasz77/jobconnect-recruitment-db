@@ -6,8 +6,7 @@ DBMS class project: JobConnect is a robust relational database system designed t
 
 ● Recruitment Workflow: Facilitating job postings with granular requirements and tracking the lifecycle of every application from submission to hire.
 
-Project Accomplishments
-The project successfully progressed from a narrative problem statement to a high-performance relational model. Key achievements include:   
+Project Accomplishments: The project successfully progressed from a narrative problem statement to a high-performance relational model. Key achievements include:    
 ● Database Schema Design: We developed a sophisticated relational schema that handles the "one-to-many" and "many-to-many" relationships typical of a professional
 hiring network.
 
