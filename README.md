@@ -1,4 +1,5 @@
-# ISC329(dbms)
+# jobconnect-recruitment-db
+
 DBMS class project: JobConnect is a robust relational database system designed to manage recruitment data within the United States market. While originally conceptualized to support a web-based platform, the core of this project is a backend architecture that manages the complex relationships between Employers, Recruiters, and Job Seekers. The system provides a structured environment for:  
 ● Company Management: Tracking employers and their assigned recruiters.
 
